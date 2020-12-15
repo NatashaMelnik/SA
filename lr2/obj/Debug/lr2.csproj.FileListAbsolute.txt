@@ -1,0 +1,10 @@
+D:\un\CA\programs\lr2\bin\Debug\lr2.exe.config
+D:\un\CA\programs\lr2\bin\Debug\lr2.exe
+D:\un\CA\programs\lr2\bin\Debug\lr2.pdb
+D:\un\CA\programs\lr2\obj\Debug\lr2.csprojAssemblyReference.cache
+D:\un\CA\programs\lr2\obj\Debug\lr2.Form1.resources
+D:\un\CA\programs\lr2\obj\Debug\lr2.Properties.Resources.resources
+D:\un\CA\programs\lr2\obj\Debug\lr2.csproj.GenerateResource.cache
+D:\un\CA\programs\lr2\obj\Debug\lr2.csproj.CoreCompileInputs.cache
+D:\un\CA\programs\lr2\obj\Debug\lr2.exe
+D:\un\CA\programs\lr2\obj\Debug\lr2.pdb

@@ -1,0 +1,11 @@
+D:\un\CA\programs\lr2_severalCriteria\bin\Debug\netcoreapp2.1\lr2_severalCriteria.deps.json
+D:\un\CA\programs\lr2_severalCriteria\bin\Debug\netcoreapp2.1\lr2_severalCriteria.runtimeconfig.json
+D:\un\CA\programs\lr2_severalCriteria\bin\Debug\netcoreapp2.1\lr2_severalCriteria.runtimeconfig.dev.json
+D:\un\CA\programs\lr2_severalCriteria\bin\Debug\netcoreapp2.1\lr2_severalCriteria.dll
+D:\un\CA\programs\lr2_severalCriteria\bin\Debug\netcoreapp2.1\lr2_severalCriteria.pdb
+D:\un\CA\programs\lr2_severalCriteria\obj\Debug\netcoreapp2.1\lr2_severalCriteria.csprojAssemblyReference.cache
+D:\un\CA\programs\lr2_severalCriteria\obj\Debug\netcoreapp2.1\lr2_severalCriteria.csproj.CoreCompileInputs.cache
+D:\un\CA\programs\lr2_severalCriteria\obj\Debug\netcoreapp2.1\lr2_severalCriteria.AssemblyInfoInputs.cache
+D:\un\CA\programs\lr2_severalCriteria\obj\Debug\netcoreapp2.1\lr2_severalCriteria.AssemblyInfo.cs
+D:\un\CA\programs\lr2_severalCriteria\obj\Debug\netcoreapp2.1\lr2_severalCriteria.dll
+D:\un\CA\programs\lr2_severalCriteria\obj\Debug\netcoreapp2.1\lr2_severalCriteria.pdb
