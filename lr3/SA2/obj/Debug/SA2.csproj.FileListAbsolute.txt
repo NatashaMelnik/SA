@@ -1,0 +1,20 @@
+C:\Users\asimp\source\repos\SA2\SA2\bin\Debug\SA2.exe.config
+C:\Users\asimp\source\repos\SA2\SA2\bin\Debug\SA2.exe
+C:\Users\asimp\source\repos\SA2\SA2\bin\Debug\SA2.pdb
+C:\Users\asimp\source\repos\SA2\SA2\obj\Debug\SA2.csprojAssemblyReference.cache
+C:\Users\asimp\source\repos\SA2\SA2\obj\Debug\SA2.Form1.resources
+C:\Users\asimp\source\repos\SA2\SA2\obj\Debug\SA2.Properties.Resources.resources
+C:\Users\asimp\source\repos\SA2\SA2\obj\Debug\SA2.csproj.GenerateResource.cache
+C:\Users\asimp\source\repos\SA2\SA2\obj\Debug\SA2.csproj.CoreCompileInputs.cache
+C:\Users\asimp\source\repos\SA2\SA2\obj\Debug\SA2.exe
+C:\Users\asimp\source\repos\SA2\SA2\obj\Debug\SA2.pdb
+C:\Users\Asus K551\Desktop\Програма ЛР_2\SA2\bin\Debug\SA2.exe.config
+C:\Users\Asus K551\Desktop\Програма ЛР_2\SA2\bin\Debug\SA2.exe
+C:\Users\Asus K551\Desktop\Програма ЛР_2\SA2\bin\Debug\SA2.pdb
+C:\Users\Asus K551\Desktop\Програма ЛР_2\SA2\obj\Debug\SA2.csprojAssemblyReference.cache
+C:\Users\Asus K551\Desktop\Програма ЛР_2\SA2\obj\Debug\lr3.Form1.resources
+C:\Users\Asus K551\Desktop\Програма ЛР_2\SA2\obj\Debug\SA2.Properties.Resources.resources
+C:\Users\Asus K551\Desktop\Програма ЛР_2\SA2\obj\Debug\SA2.csproj.GenerateResource.cache
+C:\Users\Asus K551\Desktop\Програма ЛР_2\SA2\obj\Debug\SA2.csproj.CoreCompileInputs.cache
+C:\Users\Asus K551\Desktop\Програма ЛР_2\SA2\obj\Debug\SA2.exe
+C:\Users\Asus K551\Desktop\Програма ЛР_2\SA2\obj\Debug\SA2.pdb
