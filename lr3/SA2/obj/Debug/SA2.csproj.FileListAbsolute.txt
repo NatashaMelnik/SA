@@ -18,3 +18,13 @@ C:\Users\Asus K551\Desktop\Програма ЛР_2\SA2\obj\Debug\SA2.csproj.Gene
 C:\Users\Asus K551\Desktop\Програма ЛР_2\SA2\obj\Debug\SA2.csproj.CoreCompileInputs.cache
 C:\Users\Asus K551\Desktop\Програма ЛР_2\SA2\obj\Debug\SA2.exe
 C:\Users\Asus K551\Desktop\Програма ЛР_2\SA2\obj\Debug\SA2.pdb
+D:\un\CA\programs\lr3\SA2\bin\Debug\SA2.exe.config
+D:\un\CA\programs\lr3\SA2\bin\Debug\SA2.exe
+D:\un\CA\programs\lr3\SA2\bin\Debug\SA2.pdb
+D:\un\CA\programs\lr3\SA2\obj\Debug\SA2.csprojAssemblyReference.cache
+D:\un\CA\programs\lr3\SA2\obj\Debug\lr3.Form1.resources
+D:\un\CA\programs\lr3\SA2\obj\Debug\SA2.Properties.Resources.resources
+D:\un\CA\programs\lr3\SA2\obj\Debug\SA2.csproj.GenerateResource.cache
+D:\un\CA\programs\lr3\SA2\obj\Debug\SA2.csproj.CoreCompileInputs.cache
+D:\un\CA\programs\lr3\SA2\obj\Debug\SA2.exe
+D:\un\CA\programs\lr3\SA2\obj\Debug\SA2.pdb
