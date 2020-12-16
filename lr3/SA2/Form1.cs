@@ -64,6 +64,16 @@ namespace lr3
         private void button1_Click(object sender, EventArgs e)
         {
             clearAnswers();
+            string text = textBox1.Text;
+            String[] array = text.Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
+            m = new double[array.Length];
+            for (int i = 0; i < array.Length; i++)
+            {
+                m[i] = Convert.ToDouble(array[i]);
+            }
+            n = Convert.ToInt32(textBox2.Text);
+            A = Convert.ToDouble(textBox3.Text);
+            clearAnswers();
 
             double result = 0;
             for (int i = 1; i <= n; i++)
@@ -78,7 +88,16 @@ namespace lr3
         private void button2_Click(object sender, EventArgs e)
         {
             clearAnswers();
-
+            string text = textBox1.Text;
+            String[] array = text.Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
+            m = new double[array.Length];
+            for (int i = 0; i < array.Length; i++)
+            {
+                m[i] = Convert.ToDouble(array[i]);
+            }
+            n = Convert.ToInt32(textBox2.Text);
+            A = Convert.ToDouble(textBox3.Text);
+            
             double[] m1 = new double[m.Length];
             m1[0] = m[0];
 
